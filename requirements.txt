@@ -3,7 +3,6 @@ jupyterlite-core==0.3.0
 jupyterlab~=4.1.6
 notebook~=7.1.2
 
-
 # Python kernel (optional)
 jupyterlite-pyodide-kernel==0.3.2
 
@@ -43,3 +42,6 @@ ipyleaflet
 # Python: plotting libraries (optional)
 plotly>=5,<6
 bqplot
+
+# Python: data tools
+pandas
