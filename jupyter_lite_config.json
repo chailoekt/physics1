@@ -1,7 +1,5 @@
 {
-    "LiteBuildConfig": {
-        "ContentsManager": {
-            "allow_hidden": true
-        }
+    "ContentsManager": {
+        "allow_hidden": true
     }
   }
