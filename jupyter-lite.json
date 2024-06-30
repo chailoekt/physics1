@@ -2,8 +2,5 @@
     "jupyter-lite-schema-version": 0,
     "jupyter-config-data": {      
       "appName": "Physics 1"            
-    },
-    "ContentsManager": {
-      "allow_hidden": true
-    }
+    }    
 }
